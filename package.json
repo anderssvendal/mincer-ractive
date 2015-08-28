@@ -1,0 +1,33 @@
+{
+  "name": "mincer-ractive",
+  "version": "1.0.0",
+  "description": "Compile ractive views on mincer",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "author": "Anders Svendal <anders@tight.no>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anderssvendal/mincer-ractive.git"
+  },
+  "bugs": {
+    "url": "https://github.com/anderssvendal/mincer-ractive/issues"
+  },
+  "keywords": [
+    "mincer",
+    "ractive",
+    "mincer-contrib",
+    "assets"
+  ],
+  "license": "MIT",
+  "peerDependencies": {
+    "mincer": "^1.2.4"
+  },
+  "devDependencies": {
+    "mincer": "^1.2.4"
+  },
+  "dependencies": {
+    "ractive": "^0.7.3"
+  }
+}
